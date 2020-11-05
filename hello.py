@@ -1,3 +1,9 @@
+# Load libraries
+# --------------
 import numpy as np
 import pandas as pd
-print ("Hello world !")
+
+
+# Script writing
+# --------------
+print ("Hi world !")
